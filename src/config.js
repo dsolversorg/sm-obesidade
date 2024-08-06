@@ -1,7 +1,7 @@
 /* eslint-disable import/prefer-default-export */
 import placeholder from './img/placeholder-headshot.png';
 
-// header will not take up vertical height when transparent, so you need to be mindful of overlap.
+// header will not take up vertical height when transparent, so you need to be mindful of overlap
 export const transparentHeader = true;
 export const headerHeight = '4.2rem';
 export const logo = 'https://i.postimg.cc/2SYk5kDN/logo-DS-01.png';
@@ -11,7 +11,7 @@ export const logoLink = '/';
 // background image is positioned in a way that is best for pictures of the persona's face.
 // adjust spacing as necessary in Landing.js for different images
 // if you want just a color, set landingBackgroundImage to null
-// if desired, a gradient can also be added to landingBackgroundColor.
+// if desired, a gradient can also be added to landingBackgroundColor
 export const landingBackgroundColor = '#FFF';
 export const landingBackgroundImage = placeholder;
 
