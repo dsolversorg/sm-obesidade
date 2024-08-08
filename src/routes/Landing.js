@@ -49,20 +49,6 @@ function Landing({ className }) {
               <div className="row" style={{ marginBottom: '9px' }}>
                 <div>
                   <h1 className="fw-bol">Sou a Maria uma Pessoa Digital Hiper-realista, criada pela Digital Solvers, com o propósito de esclarecer suas dúvidas.</h1>
-                  <h2 className="fw-bol">
-                    Segue abaixo algumas frases de navegação:
-                  </h2>
-                  <h2 className="fw-bol">
-                    <b> Menu Iniciar</b>
-                    ,
-                  </h2>
-                  <h2 className="fw-bol">
-                    <b> Voltar</b>
-                    ,
-                  </h2>
-                  <h2 className="fw-bol">
-                    <b> Encerrar</b>
-                  </h2>
                 </div>
               </div>
               <div className="row">
